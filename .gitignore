@@ -1,0 +1,4 @@
+# Types générés par Claude Code à chaque chargement du mod
+.claude-plugin/types/
+node_modules/
+.DS_Store

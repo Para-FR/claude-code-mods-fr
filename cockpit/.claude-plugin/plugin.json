@@ -1,0 +1,12 @@
+{
+  "name": "cockpit",
+  "version": "0.1.0",
+  "description": "Panneau live des statistiques de la session : tours, outils, tokens, durées et fichiers modifiés. Ouvert par /cockpit.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Claude Code France",
+    "url": "https://cc-france.org"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/Para-FR/claude-code-mods-fr"
+}

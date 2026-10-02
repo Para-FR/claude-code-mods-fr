@@ -1,0 +1,17 @@
+{
+  "name": "claude-code-mods-fr",
+  "owner": { "name": "Claude Code France", "url": "https://cc-france.org" },
+  "metadata": { "description": "Les mods Claude Code de la chaîne Claude Code France" },
+  "plugins": [
+    {
+      "name": "garde-du-corps",
+      "source": "./garde-du-corps",
+      "description": "Bloque l'accès aux fichiers .env et les commandes Bash destructrices (rm -rf, git push --force, git reset --hard, DROP TABLE), avec toast et compteur dans la status line."
+    },
+    {
+      "name": "cockpit",
+      "source": "./cockpit",
+      "description": "Panneau live des statistiques de la session : modèle, coût, contexte, tours, outils, tokens, durées et fichiers modifiés. Ouvert par /cockpit."
+    }
+  ]
+}
