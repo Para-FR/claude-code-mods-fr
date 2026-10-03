@@ -1,6 +1,6 @@
 # Claude Code Mods 🇫🇷
 
-Deux **Claude Mods** construits en live dans la vidéo YouTube de **Claude Code France** :
+Deux **Claude Mods** construits en live dans [la vidéo YouTube de **Claude Code France**](https://youtu.be/_Hllg5sDhFo) :
 Claude Code les a écrits lui-même, à partir d'une seule phrase chacun.
 
 | Mod | Ce qu'il fait |
@@ -55,7 +55,8 @@ claude plugin validate cockpit && claude plugin test cockpit
 
 ## Liens
 
-- 🎬 Chaîne YouTube et communauté : [Skool (gratuit)](https://shorturl.at/gAGbV) · [Discord](https://cc-france.org) · Instagram [@claudecodefrance](https://instagram.com/claudecodefrance)
+- 🎬 [La vidéo : Claude Mods](https://youtu.be/_Hllg5sDhFo)
+- 👥 Communauté : [Skool (gratuit)](https://shorturl.at/gAGbV) · [Discord](https://cc-france.org) · Instagram [@claudecodefrance](https://instagram.com/claudecodefrance)
 - 📞 Formation entreprise / coaching : [Calendly](https://calendly.com/claudecodefrance)
 - 📚 [Doc officielle des mods](https://code.claude.com/docs/en/plugins/mods/overview)
 
